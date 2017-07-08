@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CardStackViewpager</string>
+    <string name="my_name">Nate Robinson</string>
+    <string name="my_qq">840501291</string>
+    <string name="my_github">https://github.com/NateRobinson</string>
+    <string name="my_blog">http://blog.csdn.net/u011771755</string>
+    <string name="my_signature">生活也许艰辛，但这不是让自己放弃努力、放弃爱好的理由~~</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="index_xiaoban">小班</string>
+    <string name="index_daban">大班</string>
+    <string name="index_other">其他语种</string>
+    <string name="index_more">更多</string>
+
+
+</resources>
