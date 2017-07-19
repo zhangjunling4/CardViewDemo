@@ -134,6 +134,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         llMore = (LinearLayout) findViewById(R.id.ll_more);
     }
 
+
     @Override
     public void onClick(View v) {
         switch (v.getId()){
